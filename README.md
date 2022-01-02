@@ -1,5 +1,5 @@
 # zzmo
-Mach-O ModifyTools
+Mach-O modify tools
 
 The system is not limited. It can be used after installing JDK
 ### Usage:
