@@ -2,8 +2,8 @@
 Mach-O ModifyTools
 The system is not limited. It can be used after installing JDK
 Usage:
-<-o path > [(optional parameter at the end) write to save path] >
-<-f path > [parse mach-o file] >
+<-o path > [(optional parameter at the end) write to save path]
+<-f path > [parse mach-o file]
 <-t path index > [extract mach-o single schema index] >
 <-r path libname index > [mach-o injection lib path name optional index (- 1 silent tail)] >
 <-d path index > [remove CMD instruction to remove index] >
