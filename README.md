@@ -1,8 +1,9 @@
 # zzmo
 Mach-O ModifyTools
 
-The system is not limited. It can be used after installing JDK
+The system is not limited. It can be used after installing JDK </n>
 Usage:
+
 -o path [(optional parameter at the end) write to save path]
 -f path [parse mach-o file]
 -t path index [extract mach-o single schema index]
