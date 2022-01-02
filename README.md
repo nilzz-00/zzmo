@@ -1,2 +1,2 @@
 # zzmo
-MachO ModifyTools
+Mach-O ModifyTools
