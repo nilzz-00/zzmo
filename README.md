@@ -28,3 +28,6 @@ The system is not limited. It can be used after installing JDK
 -d path index [移除cmd指令 移除索引]
 
 -md path index [修改cmd指令 DYLIB名称地址 修改索引]
+
+
+![image](https://github.com/nilzz-00/zzmo/blob/main/image.png)
